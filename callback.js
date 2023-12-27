@@ -1,3 +1,5 @@
+// passing one function into another function is called callback
+
 function sayHello() {
     console.log('heelo')
 }
